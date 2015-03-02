@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Aug 06 11:04:58 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Risky\\Desktop\\parallelSvmNew_fat.jar
+manifest.mergeall=true
+manifest.mainclass=parallelSVM.Driver
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|hadoop-core-0.20.205.0.jar>
+includes=
